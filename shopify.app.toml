@@ -2,7 +2,7 @@
 
 client_id = "3d0e74673c51dc242ff7006a100de6a8"
 name = "shakingcat-test"
-application_url = "https://qualifying-himself-late-var.trycloudflare.com"
+application_url = "https://demonstration-german-kevin-quantitative.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,9 +15,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://qualifying-himself-late-var.trycloudflare.com/auth/callback",
-  "https://qualifying-himself-late-var.trycloudflare.com/auth/shopify/callback",
-  "https://qualifying-himself-late-var.trycloudflare.com/api/auth/callback"
+  "https://demonstration-german-kevin-quantitative.trycloudflare.com/auth/callback",
+  "https://demonstration-german-kevin-quantitative.trycloudflare.com/auth/shopify/callback",
+  "https://demonstration-german-kevin-quantitative.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
